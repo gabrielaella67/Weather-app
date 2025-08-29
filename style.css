@@ -1,0 +1,11 @@
+.card-header .btn {
+    line-height: 1;
+}
+
+.skeleton.bar {
+    display: block;
+    height: 12px;
+    background: #e9ecef;
+    border-radius: 6px;
+    margin: 6px 0;
+}
